@@ -54,6 +54,8 @@ When creating a classmate address list, for example, you may need a diagonal lin
 
 If you need to repeat the same value and it is complicated to input, the best way is to use the AutoCorrect function, which will replace your text with the correct text. Take my name, Liza Brown, for example, which can be replaced by LZ. Therefore, every time I input LZ, it can autocorrect to Liza Brown. Go to File->Options->Proofing->AutoCorrect Options and input Replace text with correct text in the red rectangular area, as below.   
 
+<img src="captures/2.jpg" width="50%">
+
 
 ## Trick # 9 : Fast Navigation with Ctrl + Arrow Button
 
